@@ -14,7 +14,7 @@ MISSING FOLDERS
                  https://ffmpeg.zeranoe.com/builds/win64/static/ffmpeg-20200209-5ad1c1a-win64-static.zip
                  
                  
-                 https://pjreddie.com/media/files/yolov3.weights    ---> 
+                 https://pjreddie.com/media/files/yolov3.weights    ---> place this file in   yolo-coco/
                  
                  
 ----------------------------------------------------------------------------------------------                 
